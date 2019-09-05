@@ -46,3 +46,246 @@ Yes, there are a few significant failings, especially in Huawei’s software, th
 The thing that I take away from the experience of reviewing the Huawei P30 Pro is a sense of optimism about the competition to Google’s Pixel. I was growing tired of only praising one camera as the undisputed king of mobile photography, and now Huawei has offered up competition that’s superior in important ways. A lot of phones with additional lenses can beat Google’s Pixel when you want to zoom in on a scene, but none have rivaled the Pixel’s dynamic range or straight up beaten it in low-light photography like the P30 Pro has done.
 
 Huawei’s new flagship is just the start of a whole new breed of cameraphone. Periscope lenses and AI will soon be minimum specs for flagship cameras, and any phone maker not already working on such technology will be left behind. If you can’t wait for that future to materialize, the P30 Pro is already here and, for a brief moment in time, it owns the title of the most capable mobile camera on the planet.
+
+
+Huawei P30 Pro hands-on: Another bid for smartphone camera glory
+The company continues its focus on mobile photography with intriguing new sensor tech.
+
+Since it first partnered with Leica on the P9, Huawei has focused on delivering unique cameras on its flagships. With the P30 and P30 Pro, the company continues that tradition by serving up a four-camera setup with an intriguing new sensor that promises vastly improved performance in low light.
+
+The four cameras on the P30 Pro are a 40-megapixel Super Spectrum sensor, an ultra-wide 20-megapixel one, a so-called "Periscope zoom" setup that offers 5x optical zoom, as well as a time of flight depth-sensing camera.
+
+Gallery: Huawei P30 and P30 Pro hands on | 34 Photos
+        +30
+You'll mainly be using the Super Spectrum camera, which to me is the most intriguing feature. Instead of using an RGB color filter on top of the monochrome layer of the sensor, Huawei swapped out the greens for yellow, which it says lets in more light (since yellow light has longer wavelengths than green).The company then recalibrated its processing algorithms to calculate the right color values from yellow. The benefit of this is much better light sensitivity. In fact, Huawei said the P30 Pro can actually go up to ISO 409,600. And while the regular P30 can only hit ISO 204,800, that's still twice what the P20 Pro is capable of (ISO 102,400).
+
+I took the P30 Pro into a dark hallway to shoot some plates of yummy snacks and was surprised at how bright the image looked. It was impressively sharp with rich colors, and looked almost as if I'd taken it in a regularly lit office. This improved light sensitivity can also be used in videos or under regular daylight to get higher shutter speeds.
+
+Huawei P30 and P30 Pro hands-on
+
+When you need to squeeze more of the scene into your shot, the 20-MP ultra wide angle camera comes in handy. Huawei says it has a field of view larger than 120 degrees, though it declined to share exact numbers. I switched lenses while pointing the P30 Pro at a nearby building.
+
+Initially, I was only able to frame one tower and half of another from a rooftop patio across the street. Switching over to the ultra-wide lens let me squeeze in other adjacent skyscrapers from about a block away on either side.
+
+I used the zoom camera to get up close to some windows and details on the edge of the building, as well as some spines of books on a shelf. I was surprised at the clarity I got even at 10x zoom, and could clearly see the stamped leather texture of book covers. This combination of super wide and close-up cameras will very likely make the P30 Pro incredibly useful at concerts, vast fields or almost any potentially challenging shooting situation.
+
+Huawei P30 and P30 Pro hands-on
+
+Unfortunately, I didn't get to try out the time of flight sensor specifically, since Huawei said it doesn't do anything yet. It's supposed to help with some AR tools like measuring the length, width and height of objects around you. This function could be very helpful, but I'll have to wait till I get to test it out to judge.
+
+Still photography has long been a focus for Huawei, but with the P30 and P30 Pro, it's turning its attention to videography. On the latest flagships, the company uses a combination of optical and AI stabilization to reduce shaky cam effects. You can make use of the 10x hybrid zoom when filming, too. When I tried getting up close with a distant window while recording a clip though, the footage had a weird jitter. I didn't see this distortion when filming at less than 3x zoom, though.
+
+There's a fifth camera on the P30s, and that's the 32MP selfie shooter. That seems a tad excessive for selfies, but the pictures I snapped with the P30 Pro looked pleasant anyway. Huawei tweaked its HDR algorithms with AI to better capture the detail in your face even if there's a very bright light source behind you, though it did tend to wash out the background a bit.
+
+The camera is housed in a tiny notch at the top of the edge-to-edge display, and this cutout is smaller than those you'll find on the P20 Pro, the Galaxy S10+, the iPhone XS Max and the Pixel 3 XL. To be fair, Samsung's flagship keeps its notch tucked away in the top right corner so it feels less obtrusive, but I found the P30 Pro's cutout easy to ignore.
+
+ 
+Cherlynn Low / Engadget
+The rest of the P30 Pro's 6.47-inch curved OLED panel is bright and vibrant, and the rounded sides make the phone feel classier than its predecessor. The regular P30 has a flat 6.1-inch screen, so it feels a little less elegant than its larger brother. Both the P30 and P30 Pro have a 2,340 x 1,080 resolution, making the bigger handset slightly less pixel dense. I didn't notice a significant difference in image quality, but I do wish they were both a bit brighter -- they were a little tough to see outside, even on a cloudy day.
+
+Under the screen lies another intriguing piece of technology, though I didn't get to test it out as the company only mentioned it briefly. The P30 Pro will also pack a new speaker feature that will deliver audio through the screen, vibrating the sound to the user. But why? Well it should mean no one else can hear your calls, to start with. Plus, it leaves one less thing to clutter up the front of the phone.
+
+Huawei also uses an in-display fingerprint sensor on the P30s, just like it did with the Mate 20. Instead of opting for an ultrasonic fingerprint sensor like Samsung did on the Galaxy S10s, Huawei is continuing to use an optical scanner, which could be less secure since it only scans an image of your fingerprint instead of actually reading the ridges on your skin. I did appreciate Huawei's helpful onscreen indicators though, and the P30 Pro logged me in pretty quickly -- within a second of my touching the screen.
+
+Huawei P30 and P30 Pro hands-on
+
+In fact, the new flagships felt remarkably swift during my hands-on. The Kirin 980 chipset with 6GB of RAM is a beefy combination, but Huawei also worked to improve its EMUI 9.1 software overlay on top of Android 9 Pie. The company said it tweaked its software so that launching an app is now 52 percent faster than before, while the response time of a tap is now 69 percent faster.
+
+These upgrades showed when I launched app after app, and jumped from settings to Google Maps to Chrome. The phone didn't feel like it was simply keeping up, it felt like the P30 Pro was almost pre-empting my moves. Buildings even popped up instantly when I zoomed in on cities in Google Maps. Still, the P30 Pro I was using was brand new, and I expect that over time and with other processes and apps running, the performance will be different.
+
+Huawei also offers a couple of rather specific special software features on the P30s. If you own an Audi car, you can use your P30 as a key via the new Audi Connect digital key. For gym rats, you can pull your information directly from a compatible treadmill into the Huawei Health app, and those who own Huawei laptops can seamlessly send files and record their notebook screens with the OneHop service. These all sound somewhat useful, though their appeal is clearly limited.
+
+Huawei P30 and P30 Pro hands-on
+
+Powering the P30 Pro is 4,200mAh battery (3,650mAh on the P30), which Huawei says will last over 24 hours even with heavy use. Plus, with the company's new 40W Super Charge technology, you can get the P30 Pro up to 70 percent in just 30 minutes.
+
+The regular P30 doesn't offer the new fast charging standard, though both phones do offer reverse wireless charging like the Galaxy S10 (and the Mate 20 Pro). With this, you can juice up compatible accessories by placing the device on your phone. I didn't get to test this out so I'm not exactly sure how it works yet, and Huawei hasn't shared what wireless charging standard this is compatible with.
+
+Finally, all this is wrapped up in a gorgeous frame. Huawei's P series is known for its unique and attractive finishes, and the P30s come in an array of gradients that I couldn't help but gawk at. There's the signature Aurora finish that's a white-purple gradient, a green-purple option called "Breathing crystal," a white-pink-yellow flavor called "Pearl white," an orange-red version called "Amber sunrise," and a basic black for the less adventurous.
+
+The P30 and P30 Pro seem like they have a lot to offer. They're powerful, attractive flagships with versatile cameras and some unique features. In the UK, at least, the P30 Pro is priced at £899 for 128GB model, or £1099 for the 512GB model, while the P30 will cost £699 at launch.
+
+But chances are, they'll never make their way to the US. So, best to keep your excitement in check.
+
+Huawei's latest photography powerhouse
+OUR VERDICT
+The Huawei P30 has one of the best cameras we've seen in a phone, with features like incredible optical zoom and night mode that other handsets could only dream of, but other than that it feels more like a decent mid-range handset than a flagship.
+
+FOR
+Fantastic camera
+Vibrant design
+Powerful processor
+AGAINST
+No wireless charging
+Huawei's UI not to everyone's taste
+Not as good as the P30 Pro
+
+Update: The Huawei P30 sees some serious camera competition from the OnePlus 7 Pro, so to decide which is the best for taking pictures once and for all, we took them both out for a camera comparison.
+
+We took ultra-wide, night sight, zoom, and many more kinds of pictures (including pigeon pics), to work out the strengths and weakness of each device. But which is better? Is one actually better, or are they both rather similar? Read our OnePlus 7 Pro vs Huawei P30 analysis here.
+
+Huawei’s P series of phones have become known for being fantastic devices for photography – that’s what the P stands for, after all – and with the Huawei P30 the company has clearly set out to create another handset that towers above the competition when it comes to its camera setup.
+
+Released on March 26 at a launch event in Paris alongside the Huawei P30 Pro, and a whole collection of other gadgets, Huawei wants the phone to ‘revolutionize’ the way people take pictures with their handset – but can the P30 deliver on this lofty promise?
+
+See all Huawei P30 deals
+And even if the P30 had the best photographic capabilities in the world, there’s a lot more to a phone than its camera – so does it deliver in terms of the other key features we expect from a flagship device, and overall performance? 
+
+There is a caveat to buying the P30 though. After Google suspended Huawei's future access to Android Play Store and security updates, there are serious question marks over the future of Huawei and Honor phones.
+
+While Google and Huawei have promised to support phones currently on the market, it's not clear how long they'll receive Android updates or access to the Google Play Store, which would severely curtail their usefulness compared to the competition.
+
+Price and availability
+Huawei made the P30, as well as the P30 Pro, available immediately in Europe after launch on March 26 2019 – but it’s not available everywhere (see below for a note on US availability), and you’ll have to wait until April 16 to pick it up in Australia.
+
+Huawei smartphones are currently not available through US carriers or major retailers, though it's still possible to buy them. This usually means a higher cost or relying on an unverified online retailers, and software may not be optimized for US networks. Huawei is working to obtain clearance to market its phones in the US, so we could see this handset officially launched there in the future.
+
+The Huawei P30 will set you back £699 / AU$1,099 (roughly $910), which in the UK in particular is quite a hike over the Huawei P20’s launch price of £599 / AU$999 (roughly $780) but a good deal less than the Huawei P30 Pro’s entry-level 128GB variant, which costs £899 (roughly $1,170 or AU$1,660, although this version of the P30 Pro isn’t coming to Australia).
+
+There’s only one model of the Huawei P30 coming out, with 6GB RAM and 128GB internal storage, but there are enough color variations to give you a degree of choice at the checkout.
+
+Best camera phone ever?
+If you’re looking at the Huawei P30 it’s probably because you want a phone for photography, and its triple-camera loadout is enough to rival the best of Samsung and Apple.
+
+The main camera is a 40MP wide-angle beast – Huawei calls it a Super Spectrum shooter, and it ‘sees’ RYYB (red, yellow, yellow, blue) light instead of the typical RGB (red, green, blue), enabling it to capture a wider range of colors for richly detailed images and, Huawei claims, making it particularly great in low-light conditions.
+
+In addition the phone packs a 16MP ultra-wide camera and an 8MP telephoto camera, the latter of which lends itself to snappier autofocus as well as 30x optical zoom, enabling you to get up close and personal even to distant subjects.
+
+All that sounds great on paper, and with the addition of a 32MP front-facing snapper for unnecessarily high-quality selfies, it seems like the Huawei P30 has the best camera setup on the market (other than the P30 Pro, which offers a 50x zoom and an additional ‘time-of-flight’ depth-sensing camera for better bokeh shots) – you’ll need to head to the Camera section of this review to check out how well it fared in practice.
+
+Design and display
+Advertisement
+
+In terms of size, the Huawei P30 is the very definition of a mid-sized phone – at 149.1 x 71.4 x 7.6mm, and with a weight of 165g, it’s almost exactly the same size as the Samsung Galaxy S10, although the P30 is a little heavier. 
+
+The back and front of the phone are covered in Corning Gorilla Glass, which together with the rounded edges and sleek design give the P30 a premium feel; however, the top and bottom of the handset are flat where the sides are rounded, and together with the fairly prominent camera bump on the rear it arguably makes for a slightly sub-premium look – although we’ve seen phones like the Xiaomi Mi 9 on which this array was even more ‘bumpy’. 
+
+The bottom of the device houses the USB-C and 3.5mm headphone ports, and on the right side is the volume rocker and power button. 
+
+
+
+This presence of the headphone jack is a little surprising given the Huawei P20 didn’t have one, and personally we’re glad to see it return – although the P30 did launch alongside the Huawei FreeLace wireless headphones, which connect to the device through the USB-C port for charging and setup, so the company was under no particular obligation to bring back the jack.
+
+The Huawei P30 stands out from other phones for its colorful body, as it comes in a range of gradient designs: Amber Sunrise (basically orange), Breathing Crystal (pale blue), Aurora (a more vivid blue), as well as standard black and white models. 
+
+We used the Aurora model for our review, and people often pointed out how good it looked – it definitely appears distinct from other phones.
+The 6.1-inch OLED display takes up an impressive amount of the phone’s frontage, broken only by a ‘teardrop’ notch at the top housing the front-facing camera. The screen has a 2340 x 1080 resolution and supports Full HD+, allowing for a greater brightness range and more vivid colors.
+
+This display’s max brightness is noticeably brighter than the screens on other handsets we compared it to, but colors did seem a tiny bit paler – we only noticed this in side-by-side comparisons though, so the difference isn’t significant.
+
+Battery life
+The Huawei P30 has a sizeable 3,650mAh battery pack, which was enough to get through a day of moderate to heavy use with a healthy amount left in reserve. 
+
+We could stream content, play games, or listen to music or podcasts for extended periods of time, and the battery wouldn’t drop too low, and Huawei’s Optimiser function tells you if idle apps are draining battery, so we never had to worry about cutting back our usage to save juice.
+
+As with any phone, photography drained power a little more quickly, and since that’s one of the main draws of the P30 we found ourselves using the camera a lot; however, even prolonged photo shoots didn’t have enough of an impact on the battery to be a cause for concern.
+
+When we put the phone through the TechRadar battery test, which involves playing a 90-minute video with full brightness while accounts are syncing over Wi-Fi, the charge only dropped a miniscule 7% – that’s one of the best results we’ve ever seen, beaten only by the LG G Flex from 2013, which lost 6%. 
+
+Most phones tend to drop in the region of 12%-15%, so the P30’s result is impressive – we even ran the test twice, because we didn’t believe the result the first time.
+
+The P30 supports Huawei’s SuperCharge fast-charging tech up to 100W, which Huawei claims will charge the phone to full in 17 minutes; however, the required charger isn’t available yet, and Huawei hasn’t announced when we’ll see it.
+
+Instead, included in the box is a standard charger, which we found powered the handset from empty to full in an hour – that’s quick enough for the battery size, and means you can comfortably get two days’ use with just a couple of brief trips to the charger.
+
+The P30 doesn’t, however, have wireless charging capability, which the P30 Pro does – and that’s a big feature to miss out on for a flagship phone these days. 
+
+Camera
+The big selling point of the Huawei P30 is the camera – that’s likely why you’re considering buying the phone, and it’s what Huawei talked about the most at the launch. 
+
+The three-camera setup the P30 boasts is impressive enough, but the range of photographic effects and tools on offer here are what cement the phone’s dominance.
+
+The headline attraction is a 40MP f/1.8 wide-angle camera, backed up by 16MP f/2.2 ultra-wide and 8MP f/2.4 telephoto snapper, and together they’re capable of taking some amazing pictures.
+
+The 40MP sensor uses Huawei’s Super Spectrum technology, which means it gathers RYYB light instead of the RGB that most sensors do; which according to Huawei enables the P30 to capture images with more natural-looking and vivid colors, and to take greatly improved low-light shots.
+
+When we took pictures at night, or in dark indoor settings, we often found the camera took pictures that picked out the subject much better than other phone camera would, both for close-up and wide shots. 
+
+This is the work of the camera’s Night mode, which requires longer exposure to take better pictures – so you’ll need to make sure to keep the camera steady – although we also got some great shots using the standard shooting mode.
+
+The other benefit of the Super Spectrum sensor is that it captures more color detail, with the Vivid or Smooth color modes enhancing naturally bright colors, like the yellow tag on the pair of keys pictured below, without artificially boosting more muted colors, meaning objects retained a natural look. 
+
+However we found the Night and enhanced color modes didn’t work together very well, with colors boosted a little overzealously in low-light conditions. 
+
+Another impressive feature of the Huawei P30’s camera setup – and certainly the most fun to play with – is the zoom facility. 
+
+As well as capturing ultra-wide shots, you can zoom in up to 30x in pictures or 10x in videos – not quite the 50x photo zoom on the P30 Pro, but impressive nonetheless.
+
+Using 30x zoom we could see details that were imperceptible in 1x zoom, and although the picture quality suffered, and slightly shakey hands could easily ruin a shot, we were still impressed by how much detail was retained.
+
+Of course you’re not always going to be taking pictures at night or from huge distances, and the standard picture mode is perfectly dependable – almost every picture we took looked great, from high-quality wide shots to close-ups with the perfect level of background blur. 
+
+It was a little fiddly taking close-ups as the camera could take a while to focus, but in all fairness we tested it on some demanding shots, including ‘busy’ compositions featuring multiple subjects. 
+The P30 supports a range of video resolutions and frame rates, from 720p HD to 4K Ultra HD at 30fps, although if you want to shoot at 60fps your only option is 1080p Full HD, and video effects aren’t available at higher resolutions.
+
+The front-facing camera boast a whopping 32MP sensor, and took selfies that would still be packed with detail even when blown up to poster sizes. Pictures taken with this camera looked amazing, and far more natural in terms of both colors and background blur than shot from rival phones. 
+
+There’s also a suite of effects that you can use for selfies, including a ‘stage lighting’ effect which turns the background back and highlights your face, creating professional-looking headshots.
+
+We were really impressed by the quality of pictures taken with the P30 – if it wasn’t for the existence of the P30 Pro, this phone would definitely be a contender for best smartphone camera.
+
+As it stands, the Huawei P30's camera was so good we carried on using it way after our review was finished, and you can read our further thoughts on the camera to find out why. We also put it through some tests side-by-side with the OnePlus 7 Pro, to see which of the smartphone snappers works better in different circumstances. Read our full analysis in our camera comparison here.
+
+Interface and reliability
+Huawei runs its own EMUI interface over Android 9 Pie, which isn’t as intuitive as the stock operating system, although you can tweak it to get a little bit closer to standard-issue Android if you prefer.
+
+The default user interface has no app drawer, so when you download an app it’ll be dumped on a home page – in the settings menu you can enable the drawer, but it doesn’t work the same as the one in Android, as you can’t swipe up to access it. 
+
+You have to press a button to open it on the home page, which is a little unintuitive, and instead we found ourselves swiping down on the home page to navigate the phone, which brings up recent apps and a search bar to find everything else.
+
+Icons for Huawei’s first-party apps, of which there are loads, are vibrant and bright – so vibrant, in fact, that combined with the colorful default wallpapers the home screen can look more like a child’s art project than a smartphone interface – it’s not necessarily ugly, but it’s very much an acquired taste, and the app icons would definitely seem jarring if you had a subtler wallpaper.
+Generally though, the Huawei P30’s user interface runs the same as Android 9, with features like adaptive brightness and a side-mounted volume bar present as expected.
+
+It’s worth noting that both face and fingerprint recognition were a little slow in the Huawei P30. Face recognition would often take a couple of seconds to recognize us, so waking the handset didn’t always feel as smooth a process as it should, although it did recognize us in dark environments and after we’d had a shave, so it’s reliable if nothing else. 
+
+The in-screen fingerprint sensor also took a while to recognize our finger compared to other phones, and it was a bit too low in the screen to be intuitive to use.
+
+Movies, music and gaming
+The Kirin 980 chipset powering the Huawei P30 is rather powerful, as we’ll get into in the ‘Performance and benchmarks’ section, so the phone can run all kinds of high-end games with minimal lag or other problem. 
+
+The wide screen made action games easy to play, as we could use on-screen joysticks without getting our thumbs in the way, and the minimal design of the phone meant we weren’t accidentally pressing side buttons all the time – although the position of the rear camera meant we kept accidentally putting our fingers on the lenses and smudging them.
+
+The screen space was also great for streaming media, with the bright display helping content to look great – the slightly duller colors didn’t matter as much for films and TV shows as for photography, and all in all the screen quality was wonderful.
+
+Music sounded good through the speakers, and the stereo sound was pretty high-quality, but we mostly listened to music on the Huawei FreeLace headphones that Huawei launched alongside the P30 and P30 Pro. These were easy to set up via the USB-C connection, paired with the P30 easily, and provided impressive sound quality. 
+
+One problem is that you need to charge the FreeLace buds through the P30 using USB-C (although they come with an adapter so you can charge it with a USB-C charger), which took a chunk of battery off the phone, but we always made it through a full day of using both devices, so it wasn’t a huge concern.
+
+Performance and benchmarks
+The Huawei P30 isn’t a phone you’d naturally consider if you need great processing power. Although it has 6GB of RAM and an impressive Kirin 980 chipset, with a chunky battery providing plenty of juice, if you want a handset for power-intensive tasks you’re more likely to to look at something like the iPhone XS or Samsung Galaxy S10.
+
+That said, when we ran a benchmark test on the Huawei P30, it returned a multi-core score of 9,730 – that’s an impressive figure, nearly as good as the iPhone XS and S10, which scored 11,481 and 11,002 respectively, and a huge leap up from the 6,681 score of the Huawei P20.
+Such a high score means the phone will run smoothly and be, but where that power is really need is for the camera, as it powers the range of AI and post-processing tasks needed to capture what are, as we’ve mentioned, great-looking shots.
+
+Verdict
+The Huawei P30 would have the best camera on the market if the P30 Pro didn’t exist – it can take high-quality and detailed pictures using a range of handy modes and effects, and it’s one of the easiest-to-use cameras we’ve tested.
+
+Beyond the camera, though, in many respects the Huawei P30 feels like any other mid-range phone rather than a flagship to rival the best of Samsung and Apple – it has great specs and a beautiful design, but there’s nothing else special about it that distinguishes it from the competition, and it misses a few tricks with a lack of wireless charging and Huawei’s lurid UI.
+
+If you’re looking for a great camera that can make calls too, then you’ve found your match, as the Huawei P30 is a five-star handset for photography, but if you want a phone for a range of purposes not limited to photography, there may be better options for you. 
+
+Competition
+Huawei P30 Pro
+
+The Huawei P30 has a larger sibling in the P30 Pro, which has a few advantages over the P30 – it has an extra ‘time-of-flight’ depth-sensing camera for even better pictures, a larger display, and IP68 water and dust resistance; but it also costs more, so you’re going to have to consider if those features are worth the extra outlay.
+
+Read our full Huawei P30 Pro review
+
+Samsung Galaxy S10
+
+If you’re looking for a phone with great photographic capabilities, consider the Galaxy S10. It too has a triple-lens rear array, comprising 12MP main, 12MP optical zoom and 16MP ultra-wide lenses, and a state-of-the-art Infinity-O screen to show off your pictures in style. It will set you back $899 / £799 / AU$1,349 for the cheapest model though, a touch more than the P30.
+
+Read our full Samsung Galaxy S10 review
+
+Huawei Mate 20
+
+Before the P30 phones, Huawei launched the Mate 20 series, and again the flagship of the range had a three-camera configuration, although each had significantly lower megapixel counts than the snappers in the P30. The Mate 20 came out for around the same price as the P30, but if you check out the  Mate 20 deals you can get it for about half that price now.
+
+Read our full Huawei Mate 20 review
+
+Xiaomi Mi 9
+The Xiaomi Mi 9 is a great phone for photography too, but its real strength is that it’s also a highly capable all-rounder. It comes with a powerful Snapdragon 855 chipset, has a sleek curved design and, most importantly, comes with a lower price tag than you’d expect for the specs.
+
+Read our full Xiaomi Mi 9 review 
+
+
