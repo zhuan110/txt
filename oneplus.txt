@@ -39,3 +39,262 @@ I’d be remiss if I didn’t also mention the Xiaomi Mi 9, arguably the most si
 
 Two points work in the OnePlus 7’s favor in comparison to its prettier, bigger, more powerful sibling. First is the size, as the OnePlus 7 still exists in the “large phone” category, whereas every reviewer who’s wrestled with the OnePlus 7 Pro for longer than a day has remarked on its big-unit proportions. The other thing is the absence of the curved screen sides. The OnePlus 7 still has the so-called 2.5D Gorilla Glass, but that’s just a softening of the very edge, whereas the 7 Pro has some gratuitous slopes on its sides that make it harder to grip and easier to accidentally palm something on screen. The Huawei P30 is a similar example of the cheaper edition of a phone having the better screen ergonomics by virtue of its designers simply not having the budget to fiddle too much.
 It feels like OnePlus invested all its time designing the 7 Pro, and then the company trickled down what it could fit into the OnePlus 6T chassis and budget space. I’m perfectly okay with that. I think the OnePlus 7 is a phone that most people will enjoy using, though it might be a frustrating reminder of the 7 Pro’s existence for the geekier among us.
+
+
+OnePlus 7 Pro review: The first true OnePlus flagship
+The silky smooth AMOLED screen and stereo speakers make it an unlikely multimedia beast.
+
+OnePlus can be funny. Sometimes, the company reveals top-notch smartphones with minor flaws. Other times, new devices land with new features that were a flop. The 6T I reviewed earlier this year is a prime example of the latter: OnePlus' first in-display fingerprint reader wasn't very responsive, and even though I was a fan of the dewdrop-notch design, the phone's selfie camera often took blurry shots.
+
+Today, OnePlus makes another attempt, and it's more ambitious than ever. For the first time, the company is releasing two flagship models simultaneously: the OnePlus 7 and the larger OnePlus 7 Pro. I've spent the last five days living with the $749 maxed-out OnePlus 7 Pro (with 12GB of RAM and 256GB of storage), and yes, with its $669 base price, it's the most expensive phone ever from the company. Still, this is easily my favorite OnePlus phone to date, and if all goes well, it may even end up being my favorite smartphone of the year.
+
+Engadget Score POOR UNINSPIRING GOOD EXCELLENT
+Key
+OnePlus
+7 Pro
+91
+Pros
+Silky smooth and sharp AMOLED screen
+Stereo speakers with Dolby Atmos sound great
+Responsive in-display fingerprint reader
+Good design and build quality
+ 
+Cons
+Still no headphone jack
+Not an affordable OnePlus phone
+Nightscape mode not as impressive as the competition
+
+Summary
+OnePlus reversed most of its mistakes with the 6T and brought out a surprisingly ambitious OnePlus 7 Pro, packing several rare components that barely anyone else has procured. The result is a beast of a device that delivers fantastic mobile cinematic plus gaming experience, and one that’s in a well-designed package.
+
+Both phones join the growing crowd of powerful Snapdragon 855-based devices, and to my surprise, these are the first non-Samsung phones to pack speedy UFS 3.0 storage chip, too. We're talking about doubling the transfer speeds, here, which is a major advantage over most smartphones. They also feature a pair of stereo speakers with Dolby Atmos, along with a larger and faster in-display fingerprint sensor. Thankfully, the three-stage alert slider and Warp Charge -- OnePlus' low-voltage fast-charging tech -- are here to stay.
+
+The OnePlus 7 Pro has the same excellent build quality and a similar design to recent predecessors. But, for a $600+ phone, I wouldn't expect anything less. This variant is available in Mirror Gray, Almond and Nebula Blue options; it's also the one that I've been using. I'm a sucker for its frosted glass back, which feels as smooth as OnePlus' earlier "baby skin" texture. The gradient blue paint job underneath the glass gives a nice shine at different angles, too. While the OnePlus 7 Pro weighs a little over 200 grams, it didn't feel that much heavier than the 185-gram 6T (the smaller OnePlus 7 weighs 182 grams). The phone also comes with a clear soft silicone case, which means I can still show off that fancy color while keeping it protected.
+
+The main difference between the OnePlus 7 Pro and the 6T is that the notch camera has been replaced by a pop-up camera with a new 16-megapixel sensor, meaning OnePlus finally has a true all-screen smartphone. The pop-up mechanism has apparently been tested to withstand over 300,000 movements, which should last for well over five years of heavy use, even. Just to be safe, this camera is also able to retract automatically when the phone detects a fall. My only concern is how much dust -- and potentially liquid -- could get trapped in this compartment over time.
+
+On the back, the OnePlus 7 Pro has a triple camera instead: There's a 48-megapixel f/1.7 main camera (with optical stabilization), along with an 8-megapixel f/2.4 3x-zoom telephoto camera and a 16-megapixel f/2.2 ultra-wide camera. More on that later.
+
+Another main selling point of the OnePlus 7 Pro is its Fluid AMOLED panel. With this, OnePlus is finally pushing into the QHD+ (3,120 x 1,440) resolution on a 6.67-inch curved screen (though the smaller 7 packs the same 6.41-inch 2,340 x 1,080 AMOLED screen as the 6T). The Fluid part refers to the screen's 90Hz refresh rate, which makes everything you do look silky smooth -- be it gaming, watching video or just general scrolling around.
+
+Yes, we've already seen 90Hz AMOLED screens on niche devices like the ASUS ROG Phone and the Nubia Red Magic 3, but the OnePlus 7 Pro's is the first to go beyond 1080p resolution. Once I got used to this, I felt odd whenever I switched back to older phones -- they definitely felt laggy.
+
+The OnePlus 7 Pro's AMOLED screen supports HDR10+, which goes well with the surprisingly immersive Dolby Atmos stereo speakers. I'll confess: This combination has improved my viewing experience so much that I'm catching up on HDR shows like Altered Carbon and Stranger Things on this phone.
+
+As with earlier models, the OnePlus 7 Pro feels slick thanks to OnePlus' excellent Oxygen OS (based on Android 9 Pie) -- more so with the silky smooth Fluid AMOLED screen. The in-display fingerprint unlock is also much faster than before, and it beats the one on the Huawei P30 Pro.
+I haven't experienced any crashes or sudden resets on my OnePlus 7 Pro over the last week, and its 4,000mAh battery has usually lasted me for over 12 hours per charge with normal use -- that's included taking dozens of photos with the cameras, some Netflix streaming over WiFi and 4G and general browsing around Facebook and Twitter. Compared to the eight to 10 hours I got on my earlier phones, this is solid.
+
+The OnePlus 7 Pro also comes with a 30W Warp Charge adapter, and it's noticeably faster than its 20W predecessor -- it takes just one hour to fully charge the phone, thus saving me about 25 minutes. Warp Charge is particularly useful when I need an emergency charge (like when I forget to charge my phone overnight; we've all been there) -- an eight-minute charge can already get my dead phone up to 20 percent.
+
+Despite this lightning-fast speed, the phone doesn't heat up as much as you'd think, because Warp Charge (which is basically Oppo's VOOC tech) is designed so most of the heavy lifting is handled by the charger. That said, the charger doesn't get hot, either.
+One personal pain point I had with the 6T was its weak haptic vibration -- so weak that even without putting a case on the phone, I kept missing calls unless I was wearing a smartwatch. It's unclear how many others complained about this, but it must have been a big enough issue to prompt OnePlus to fix this on the OnePlus 7 Pro. And so far, so good: I don't think I've missed any calls yet thanks to the stronger vibration. As a bonus, this motor also offers crisper tactile feedback, which makes typing feel great. (Sadly, the OnePlus 7 doesn't use this new vibration motor.)
+
+So what is the OnePlus 7 Pro missing? As usual for OnePlus, there's no microSD expansion, but you do get dual Nano SIM slots. There's also no 3.5mm headphone jack nor a USB-C adapter in the box, but OnePlus does want you to consider buying its new Bullets Wireless 2 Bluetooth earphones. Unlike their predecessor, these new ones feature triple drivers -- two balanced armature drivers and one moving coil on each side, and they sound great. At $99, it's understandably much more expensive than the $69 OG earphones, but I think it's still priced competitively given the audio performance. They also support Warp Charge, which offers 10 hours of listening time with just a 10-minute charge.
+
+Left: OnePlus 7 Pro; right: Huawei P30 Pro.
+In terms of photography, the main camera on the OnePlus 7 Pro handles HDR shots much better than the 6T. In general, it produced a more accurate white balance while tightening highlights and shadows. In particular, the OnePlus 7 Pro did well with greenery subjects, while the Huawei P30 Pro's comparison shots looked washed out, and the iPhone XS Max's photos seemed less authentic to what I saw.
+
+Night shots looked clean and accurate, too, partly thanks to the pixel-binning method applied to the main 48-megapixel sensor, and partly thanks to the optical stabilization on both the main camera and telephoto camera. I was also able to take some nice close-up shots of some busy bees using the Pro mode. As for video, my 4K 60fps clips look stunning when played back on this QHD+ Fluid AMOLED screen.
+That said, I did notice a slight loss in detail compared to my 6T daytime shots, especially text on distant billboards. This is likely the downside of pixel-binning. It should also come as no surprise that the Nightscape mode on the OnePlus 7 Pro is still no match to Huawei's Night mode and Google Pixel's Night Sight, but unless you're in a pitch-black room, the OnePlus 7 Pro's normal camera mode should do the job.
+
+As for the front camera, I'm happy to report that my selfies, here, are much better than what I got on the 6T. I can now confidently take selfie shots without having to worry about blurriness. But, of course, if you find this new camera shows a little too much detail, there's always beautification mode to the rescue.
+
+It's hard to find major faults on the OnePlus 7 Pro. The company took a risky approach, packing in advanced components to help it stand among, if not stand out against, all the other flagship smartphones. Very few others have the same 90Hz AMOLED screen or speedy UFS 3.0 storage. Most importantly, the OnePlus 7 Pro's cameras are comparable to those on other flagships. That said, it faces the threat of Huawei's (still pricier) P30 Pro (from $599) which offers 10x hybrid zoom plus an AI-enhanced Night mode. On the other side, Google's cheaper Pixel 3a devices (starting from $399) offer almost the same superb main camera as their flagship counterpart for even less money than either of the OnePlus 7 devices.
+
+I reckon folks who are already using a 6T will want to jump straight to the OnePlus 7 Pro. But for everyone else, if budget is a concern, there is the slightly cheaper OnePlus 7, which is effectively a new and improved 6T, but it'll only be available in Europe and Asia. For those who have the money, OnePlus hopes they will bite at that silky smooth screen, a truly unique feature that goes well with OnePlus' famously slick software. Even with a higher price than its predecessors, the OnePlus 7 Pro is still hundreds of dollars cheaper than a lot of the competition, and let's face it, there aren't many phones with this price-to-performance ratio.
+
+OnePlus 7 review
+A solid smartphone, but it's more of the same
+OUR VERDICT
+The OnePlus 7 is a dependable, affordable flagship smartphone, but if you're looking for fancy 2019 features you won't find them here. It's got high-end power and in-display fingerprint scanner, but borrows a lot from its predecessor.
+
+FOR
+Latest power under the hood
+Premium features for less
+Solid battery life
+AGAINST
+Very similar to OnePlus 6T
+Overshadowed by OnePlus 7 Pro
+No microSD, headphone jack
+The OnePlus 7 sits in the shadows. Not because it's a bad phone, but because it has been outshone by its headline-grabbing sibling, the OnePlus 7 Pro.
+
+It's the latter which has inherited the bells and whistles of a new generation of device, while the incremental upgrades on the OnePlus 7 are far more modest.
+
+There's not much difference between it and the OnePlus 6T which it replaces, but that's sort of the point. It offers a more affordable option to those who can't stretch to the pricier Pro, but still want the latest power under the hood. 
+
+The OnePlus 7 packs in the top-end Snapdragon 855 chipset along with a choice of either 6GB or 8GB of RAM. Your RAM choice is tied to the amount of storage you'll get inside (128GB or 256GB), but even the entry-level model provides plenty.
+
+It fits the 'affordable flagship' bill nicely, giving you enough power to run pretty much any app or game, and there's plenty of storage for your downloads, photos and music.
+
+The camera is good, not great, the screen is bright and colorful, but doesn't match the HDR-enable QHD screens of the more expensive and it misses out on a certified waterproof rating and wireless charging.
+
+However, if you've got a set budget you simply can't exceed, and the OnePlus 7 sits at the top of it, you're unlikely to find a better phone for the money.
+OnePlus 7 price: starts at £499 (around $640, AU$930)
+OnePlus 7 release date: June 4
+ONEPLUS 7 SPECS
+
+
+Weight: 182g
+Dimensions: 157.7 x 74.8 x 8.2mm
+OS: Android 9
+Screen size: 6.41-inch
+Resolution: Full HD+
+CPU: Snapdragon 855
+RAM: 6GB/8GB
+Storage: 128GB/256GB
+Battery:  3,700mAh
+Rear camera: 48MP + 5MP
+Front camera: 16MP
+Waterproof: No official rating
+Headphone jack: No 
+
+The OnePlus 7's price starts at £499 (around $640, AU$930) for the 6GB of RAM and 128GB of storage model, which is the same price as the OnePlus 6T started at with the same RAM and storage.
+
+If you fancy a bit more space and power you can opt for the 8GB/256GB configuration at £549 (around $700, AU$1,000), which is actually cheaper than the 256GB 6T.
+
+The OnePlus 7 is more expensive than the Honor 20, Honor View 20 and Pocophone F1, while it matches other 'affordable flagship' rivals such as the Xiaomi Mi Mix 3 and Oppo Reno.
+
+The OnePlus 7 release date was June 4 in the UK, almost a month later than the arrival of the OnePlus 7 Pro, further making it feel like a second class citizen in its own camp. It’s widely available in the UK though, from the OnePlus website and through Amazon, EE and John Lewis.
+
+However, there’s bad news for those in the US and Australia, as the OnePlus 7 won’t be available in either region.
+
+DISPLAY
+Large, colorful 6.41-inch display
+The Full HD+ resolution gives you a crisp pixel density of 402ppi
+There's a 6.41-inch AMOLED display on the front of the OnePlus 7, with a 2340 x 1080 Full HD+ resolution. That gives you 402 pixels per inch, and it provides plenty of color and detail, although the screen on the OnePlus 7 Pro is both bigger and sharper. 
+
+The OnePlus 7's screen has a tall, 19.5:9 aspect ratio, providing you with more space for landscape gaming, and a better viewing experience for video.
+
+The top of the screen is also interrupted by a small notch, which houses the front-facing camera. We didn't find that it got in the way during use, but it does mean you lose space for a couple of additional icons in the notification bar.
+
+OnePlus has managed to keep bezels around the screen to a relative minimum, but there is a small chin at the base of the display - although it's not an issue.
+
+The fingerprint scanner on the OnePlus 7 is embedded into the display, and while it does work, it's not the fastest or most accurate in-screen scanner we've used.
+
+It's also not quite as fast as non-screen-mounted scanners, with a split second needed for it to read your finger and unlock the handset. You can opt for face unlock instead, which is impressively fast, but you need to be looking at the device for it to work and it's less secure.
+
+We didn't have any issues with the screen during our time with the OnePlus 7. It's bright and colorful, providing enough detail for general usage as well as gaming and video. 
+
+It lacks HDR and a QHD (or higher) resolution, so image quality isn't as good as the OnePlus 7 Pro, Samsung Galaxy S10 or Sony Xperia 1 - but all these handsets cost more. Considering the OnePlus 7 price, it's hard to knock the screen.
+
+DESIGN
+Very similar to OnePlus 6T, with the addition of a front-facing speaker
+Looks and feels premium, but slippery in the hand
+The design of the OnePlus 7 is very similar to the OnePlus 6T, but look closely and there are a few minor differences between the two handsets.
+
+
+
+There's a notch at the top of the phone housing the front-facing camera, which you may feel already looks a little dated, especially as the Pro version doesn't have any notch, instead employing a pop-up selfie camera.
+
+As noted above there's also an in-screen fingerprint scanner here, which generally works well, but it doesn't seem as accurate or fast as the digit readers we found in the screens of the Huawei P30 Pro and Samsung Galaxy S10.
+
+The scanner itself is bigger than the one in the OnePlus 6T, meaning your thumb should be able to find it more easily - although it's not always perfect.
+
+It does allow the rear of the phone to be almost completely flush, with just the centralized camera module interrupting the shiny glass finish. 
+
+That rear glass doesn't offer up much in the way of grip, so a case may be called for it you want to have a better hold of the OnePlus 7. In some markets a simple silicone case is included in the box.
+
+There's still a silence slider on the right side of the OnePlus 7, just above the power key, which is a feature many like about OnePlus phones. This handset doesn't have an IP rating though, so we wouldn't recommend taking it too close to the pool or using it in the bath.
+
+The OnePlus 7 is only available in one color in Western markets: Mirror Gray. Those who live in China and India are also able to buy the phone in red, but there's currently no plan to bring that color to other countries. 
+
+The OnePlus 7 also gets stereo speakers, and you can see this with a slender speaker grille which runs along the top edge of the phone. That's a new addition over the 6T, and it joins the down-firing speaker on the base of the handset.
+
+For those of you who like every feature possible packed into their smartphone, the OnePlus 7 does have a few other omissions on top of no IP rating, including no microSD card slot, wireless charging or headphone jack.
+CAMERA
+Dual rear cameras with a powerful main 48MP lens
+Front-facing 16MP selfie camera
+Another upgrade the OnePlus 7 has over the 6T is its cameras, and while you still get dual rear cameras, their values have changed.
+
+The main sensor is now Sony's mammoth 48MP f/1.7 offering, and that's joined by a 5MP f/2.4 depth sensor, used for portrait mode and the 2x zoom.
+
+That increase in megapixels on the main camera means shots carry more detail, providing better quality images, although visually it's not a huge leap forward.
+
+Outside, in good light, the OnePlus 7's cameras perform well, providing a good level of contrast and color. Inside the quality dips slightly, but results are still strong.
+
+The camera app on the OnePlus 7 is straightforward, with only a few options visible when you load it up.
+
+There are four modes to choose from at first - photo, portrait, nightscape and video - but swipe up over the shutter key and you'll open up an expanded menu revealing more options, including a pro mode and slow motion video capture.
+
+Slide sideways to switch from the standard photo mode to portrait, and the OnePlus 7 does a good job of blurring the background around your subject, making for some striking shots.
+
+Switch to the 16MP f/2.0 front-facing camera and selfies are of good quality. There is a beauty mode, which is thankfully turned off by default, and there's a portrait mode available here as well.
+
+With no secondary depth sensor on the front, the OnePlus 7 uses machine learning to blur the background. It still does well, but it's not quite as accurate as the rear setup.
+
+BATTERY
+3,700mAh is fast charging compatible, but there's no wireless charging
+Will last a full day on a single charge
+Advertisement
+
+The OnePlus 7 comes with a 3,700mAh battery which, yes you've guessed it, is the same size as the power pack found in the OnePlus 6T.
+
+We found that it would easily see us through a full day on a single charge, and we tended to get to bed at around 11pm with roughly 20% left in the tank.
+
+Our general usage tended to involve taking it off charge at 7am and using it for a couple of hours of video streaming, an hour or two of gaming, and a healthy dose of messages, emails, social media, camera and web browsing throughout the day.
+
+The battery in the OnePlus 7 is also fast charging compatible, via the USB-C port on the base of the device, allowing you to quickly top up if you spot yourself running low. You will need the bundled-in-the-box Dash charge plug to take advantage of the increased charging speeds though.
+
+You have to plug the OnePlus 7 in to charge as well, as it does not support wireless charging.
+
+PERFORMANCE
+Flagship performance and dedicated gaming modes
+Latest Android software with plenty of customization options
+There's plenty of power under the hood of the OnePlus 7, and with Qualcomm's Snapdragon 855 chipset featuring as its beating heart, you can be safe in the knowledge that your phone is bang up to date.
+
+Advertisement
+
+That's paired with either 6GB or 8GB of RAM (we reviewed the latter), and in reality you're unlikely to see much difference in day-to-day performance between the two models.
+
+Apps load swiftly and you can easily jump between multiple apps without any sign of slowdown. 
+
+If you're someone who likes to play a lot of intense mobile games - we're talking the likes of Fortnite or PUBG (PlayerUnknown's Battlegrounds) with the graphics cranked all the way up - then the 8GB model will fare better, but the 6GB OnePlus 7 won't be a slouch.
+
+We ran the Geekbench test on the OnePlus 7 and it managed to gain an average multi-core score of 10,576, just below the OnePlus 7 Pro, which racked up 10,960 in the same benchmark test.
+
+That puts it just behind some of the best performing smartphones around, including the Samsung Galaxy S10 Plus (11,002), Sony Xperia 1 (11,192) and iPhone XS (11,481). Considering the OnePlus 7 is considerably cheaper than these handsets, it's a great result and shows it has flagship power packed inside.
+
+Gamers can also take advantage of Gaming mode on the OnePlus 7, which lets you lock the screen brightness, enhance the display and choose whether or not you want notifications or call pop-ups to display on screen.
+
+If you want to take things a step further you can engage Fnatic mode which, when enabled, blocks notifications and calls, restricts background activity to provide more power to your game, and disables your second SIM (if you have one) to enhance your network connection and reduce latency.
+
+Whenever you load up a game, you'll see a gaming mode pop-up at the top of the display, and you can tap it to fine-tune your settings.
+
+
+The OnePlus 7 runs the latest version of Google's operating system, Android 9 Pie, but it's not the stock version of the software.
+
+OnePlus applies its Oxygen UI over the top of Android, a relatively light skin which doesn't mess around too much with the look and feel of Google's software, but rather builds in additional features and customization for users who like to dig through various options in the settings menu.
+
+It's easy to navigate and feels fluid under-thumb.
+
+WHO’S IT FOR?
+Advertisement
+
+You can't afford the OnePlus 7 Pro
+The OnePlus 7 is a solid smartphone offering flagship features at a price point that easily undercuts the likes of Apple, Samsung and Sony - making it an attractive option. The OnePlus 7 Pro is a better, more exciting option, but it does cost more and if you're on a strict budget you'll be well-served by the 7.
+
+You want an affordable flagship phone
+While it may not be as feature-packed as the Pro, the OnePlus 7 still boasts a premium build and flagship power under the hood, along with a sizable display, dual rear cameras and a fancy in-display fingerprint scanner. All at a price which is much cheaper than the bigger players.
+
+You want to try something new
+Have you always stuck to the big brands for your smartphones? The likes of Apple, Samsung and Sony? Well perhaps it's time to try something different. OnePlus is now firmly established in the market and the OnePlus 7 is a premium, powerful handset that won't break the bank.
+
+WHO’S IT NOT FOR?
+You want all the latest features on your phone
+While the OnePlus 7 does have the latest chipset at its heart, it doesn't come with all the bells and whistles of a new flagship phone - it's very similar to the OnePlus 6T. If you want the latest and greatest you'll have to pay a bit more (see the OnePlus 7 Pro).
+
+You want a photography powerhouse
+The cameras on the OnePlus 7 are good, but they're not the best on the market. If you're wanting to get the best shots from your smartphone you'll want to look at the Huawei P30 Pro or Google Pixel 3.
+
+You live in North America (or Australia)
+OnePlus decided that it would only offer the pricier 7 Pro in North America, so if this is the part of the world you call home then it's tough luck, you can't get the OnePlus 7. OnePlus also hasn't launched a new phone in Australia since the OnePlus 5, and there's no sign of the OnePlus 7 bucking that trend.
+
+COMPETITION
+Sony Xperia 10 Plus
+Do you love watching movies on your phone? Well, the 21:9 aspect ratio screen on the Sony Xperia 10 Plus could well be what you've been waiting to slide out of your pocket. It's cheaper than the OnePlus 7, and less powerful, but if film is your first love you'll want to check it out.
+
+Xiaomi Mi Mix 3
+Impressed by the large, bezel-free, uninterrupted screen of the OnePlus 7 Pro, but can't quite afford it? The Xiaomi Mi Mix 3 also offers up a notch-less display and its own eye-catching slider mechanism for around the same cost as the OnePlus 7.
+
+OnePlus 7 Pro
+The OnePlus 7 Pro is the super sibling of the OnePlus 7, with an all-screen front, pop-up camera, QHD HDR display and even more RAM crammed into its premium body. It costs more, but it's still cheaper than the top-flight offerings from Apple and Samsung.
